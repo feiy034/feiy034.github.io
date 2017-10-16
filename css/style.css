@@ -1,0 +1,18 @@
+.text {
+  font-family: "Noto Sans CJK SC";
+  font-weight: bold;
+  color: #aa4444;
+  font-size: 150%;
+  width: 100%;
+  text-align: center;
+}
+
+#duckling {
+  width: 300px;
+  height: 200px;
+}
+
+.centering {
+  margin: 0 auto;
+  width: 300px;
+}
